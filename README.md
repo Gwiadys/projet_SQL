@@ -4,7 +4,7 @@ Ce rapport présente le processus de réalisation du projet de système de gesti
 informatique pour une école. L'objectif principal était de concevoir une base de données 
 relationnelle pour gérer efficacement les données des étudiants, des enseignants, des 
 matières, des promotions, des notes et des absences. Le projet inclut également des 
-analyses à travers des requêtes SQL.
+analyses à travers des requêtes SQL. Les étapes de ce projets sont:
 
 
 ## Analyse des besoins et conception UML
