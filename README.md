@@ -1,4 +1,4 @@
-#Système de Gestion Informatique pour une École
+# Système de Gestion Informatique pour une École
 
 Ce rapport présente le processus de réalisation du projet de système de gestion 
 informatique pour une école. L'objectif principal était de concevoir une base de données 
@@ -8,7 +8,7 @@ analyses à travers des requêtes SQL.
 
 
 ## Analyse des besoins et conception UML
-##Normalisation de la base de données en 3FN
-##Création des tables SQL
-##Requêtes SQL pour l'analyse
-##Insertion de données (Bonus)
+## Normalisation de la base de données en 3FN
+## Création des tables SQL
+## Requêtes SQL pour l'analyse
+## Insertion de données (Bonus)
